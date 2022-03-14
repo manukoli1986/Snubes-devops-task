@@ -20,6 +20,8 @@ Based on your DevOps experience and DevOps best practices and principles, please
 9. 
 ## Workflow of Solution1
 
+![alt text](http://url/to/img.png)
+
 1. User(Actor) sends request to <b>example.com</b> and that redircts to route53.
 2. Requests passes through WAF which monitors web-request and if request is fine then redirects to Application LB.
 3. ALB has feature to route requests according to Host-based routing and will send request to destination Public LBs.
@@ -36,6 +38,8 @@ Based on your DevOps experience and DevOps best practices and principles, please
 - High cost need to pay for such environment. We can convert it into microservice architecutre or serverless. 
 
 ## Workflow of Solution2
+
+![alt text](http://url/to/img.png)
 
 1. User(Actor) sends request to <b>example.com</b> and that redircts to route53.
 2. Requests passes through WAF which monitors web-request and if request is fine then redirects to Application LB.
