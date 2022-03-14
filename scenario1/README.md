@@ -55,8 +55,8 @@ There could be many solution for the infrastructure provided above. Although I a
 
 ### Cons
 - 
+<a href="https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.drawio.pdf" class="image fit" ></a>
 
-![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.drawio.pdf)
 
 
 # Best practice
