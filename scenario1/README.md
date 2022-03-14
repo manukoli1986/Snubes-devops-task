@@ -20,7 +20,7 @@ Based on your DevOps experience and DevOps best practices and principles, please
 9. 
 ## Workflow of Solution1
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.jpg)
 
 1. User(Actor) sends request to <b>example.com</b> and that redircts to route53.
 2. Requests passes through WAF which monitors web-request and if request is fine then redirects to Application LB.
@@ -39,7 +39,7 @@ Based on your DevOps experience and DevOps best practices and principles, please
 
 ## Workflow of Solution2
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution2.jpg)
 
 1. User(Actor) sends request to <b>example.com</b> and that redircts to route53.
 2. Requests passes through WAF which monitors web-request and if request is fine then redirects to Application LB.
