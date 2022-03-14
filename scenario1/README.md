@@ -39,7 +39,7 @@ Based on your DevOps experience and DevOps best practices and principles, please
 
 ## Workflow of Solution2
 
-![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution2.jpg)
+![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Soluton2.jpg)
 
 1. User(Actor) sends request to <b>example.com</b> and that redircts to route53.
 2. Requests passes through WAF which monitors web-request and if request is fine then redirects to Application LB.
