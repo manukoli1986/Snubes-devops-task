@@ -36,7 +36,7 @@ There could be many solution for the infrastructure provided above. Although I a
 ### Cons
 - High cost need to pay for such environment. We can convert it into microservice architecutre or serverless. 
 
-[](./Solution1.drawio)
+![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.drawio.pdf)
 
 ## Workflow of Solution2
 
@@ -56,7 +56,8 @@ There could be many solution for the infrastructure provided above. Although I a
 ### Cons
 - 
 
-[](./Solution2.drawio)
+![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.drawio.pdf)
+
 
 # Best practice
 - We can also implement the Cloudwatch, Cloudtrail, Eventbridge and Lambda service to make it more reliable. 
