@@ -1,4 +1,4 @@
-### home_task
+### Task
 
 This task consists of 2 scenarios which has been explained and easy to follow. 
 

@@ -15,7 +15,6 @@ average CPU utilization
 4. Please create a log file, that will contain timestamp and the last average CPU Utilization
 in percentage
 
-<!--- BEGIN_TF_DOCS --->
 
 ## Requirements
 1. sysstat must be installed on server.
