@@ -4,8 +4,7 @@
 
 Based on your DevOps experience and DevOps best practices and principles, please fix the infrastructure described below. As an output, I expect pdf with fixed infrastructure (you can use draw io, lucidchart, or similar) and an explanation of why you chose this solution over the others and improvements which can be implemented in the future.
 
-###
-There could be many solution for the infrastructure provided above. Although I am providing 2 solutions which are simple but have capacity dand efficiency of scalable and High-Available. 
+- There could be many solution for the infrastructure provided above. Although I am providing 2 solutions which are simple but have capacity dand efficiency of scalable and High-Available. 
 
 ## AWS Services
 
@@ -36,8 +35,6 @@ There could be many solution for the infrastructure provided above. Although I a
 ### Cons
 - High cost need to pay for such environment. We can convert it into microservice architecutre or serverless. 
 
-![alt text](https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.drawio.pdf)
-
 ## Workflow of Solution2
 
 1. User(Actor) sends request to <b>example.com</b> and that redircts to route53.
@@ -51,12 +48,10 @@ There could be many solution for the infrastructure provided above. Although I a
  
 ### Pros 
 - Solution is simple but scalable.
-- Less cost 
+- Less cost to pay
 
 ### Cons
-- 
-<a href="https://github.com/manukoli1986/Snubes-devops-task/blob/master/scenario1/Solution1.drawio.pdf" class="image fit" ></a>
-
+- Single Point of failure with Elasticache service. 
 
 
 # Best practice
@@ -64,4 +59,3 @@ There could be many solution for the infrastructure provided above. Although I a
 - We can warm up the machine in Production environment when expected traffic in weekends. 
 - We can run this code on container or design it in serverless architecture to save cost. 
 - We can also use compliance tool to verify that the existing infrastrutre is running without any vulnerabilities. i.e. AWS Sheild or AWS Governance.
-- 
